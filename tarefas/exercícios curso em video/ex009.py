@@ -1,5 +1,5 @@
 print('=== Desafio 09 ===')
-
+# Sem estrutura de repetição
 n = int(input('Digite um número para ver sua tabuada: '))
 print(f'A tabuada do {n}:')
 print('-'*15)
